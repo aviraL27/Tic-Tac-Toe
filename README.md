@@ -1,35 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Tic Tac Toe</title>
-</head>
-<body>
+# Tic Tac Toe
 
-    <h1>Tic Tac Toe</h1>
+A simple Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 
-    <p>
-        A simple Tic Tac Toe game built using <strong>HTML, CSS, and JavaScript</strong>.
-    </p>
+## Features
+- Two-player gameplay
+- Win and draw detection
+- Reset and new game buttons
 
-    <h2>Features</h2>
-    <ul>
-        <li>Two-player gameplay</li>
-        <li>Win and draw detection</li>
-        <li>Reset and new game buttons</li>
-    </ul>
+## Tech Used
+- HTML
+- CSS
+- JavaScript
 
-    <h2>Tech Used</h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ul>
-
-    <h2>How to Run</h2>
-    <p>
-        Open <code>index.html</code> in your browser and play.
-    </p>
-
-</body>
-</html>
+## How to Run
+Open `index.html` in your browser and play.
